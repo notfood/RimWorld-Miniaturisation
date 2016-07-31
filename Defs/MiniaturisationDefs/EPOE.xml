@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationEPOE</defName>
+        <requiredMod>Expanded Prosthetics and Organ Engineering</requiredMod>
+        <targetsDefNames>
+            <li>TableBasicProsthetic</li>
+            <li>TableBionics</li>
+            <li>TableSimpleProsthetic</li>
+            <li>TableSurrogates</li>
+            <li>TableSynthetics</li>
+            <li>UpgradingStation</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

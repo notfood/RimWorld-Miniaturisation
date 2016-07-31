@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCraftableMedicines</defName>
+        <requiredMod>CraftableMedicines</requiredMod>
+        <targetsDefNames>
+            <li>TableCMedicines</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

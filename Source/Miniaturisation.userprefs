@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Miniaturisation.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefInjector.cs">
+    <Files>
+      <File FileName="DefInjector.cs" Line="53" Column="41" />
+      <File FileName="MiniaturisationDef.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
