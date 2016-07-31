@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <Miniaturisation.MiniaturisationDef>
-        <defName>MiniaturisationColMan</defName>
+        <defName>MiniaturisationColonyManager</defName>
         <requiredMod>Colony Manager</requiredMod>
         <targetsDefNames>
             <li>FM_BasicManagerStation</li>
