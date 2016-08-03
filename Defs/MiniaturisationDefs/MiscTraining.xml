@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationMiscTraining</defName>
+        <requiredMod>Misc. Training</requiredMod>
+        <targetsDefNames>
+            <li>ArcheryTarget</li>
+            <li>ShootingRangeTarget</li>
+            <li>MartialArtsTarget</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationBulkMeals</defName>
+        <requiredMod>Bulk Meals</requiredMod>
+        <targetsDefNames>
+            <li>ElectricStove</li>
+            <li>CookStove_Pro</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
