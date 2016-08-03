@@ -48,7 +48,9 @@ namespace Miniaturisation
 				List<string> filter = miniaturisationDef.targetsDefNames;
 				Log.Message ("Miniaturisation :: Found " + miniaturisationDef.requiredMod + " (" + filter.Count + ")");
 
-				foreach ( ThingDef thing in DefDatabase< ThingDef >.AllDefs.Where ( def => filter.Contains(def.defName) ) ) {
+				IEnumerable<ThingDef> list = DefDatabase< ThingDef >.AllDefs.Where ( def => filter.Contains(def.defName) );
+				for (int i = 0; i < list.Count(); i++) {
+					ThingDef thing = list.ElementAt (i);
 #if DEBUG
 					Log.Message ("> " + thing.defName);
 #endif
@@ -56,6 +58,8 @@ namespace Miniaturisation
 					if (thing.minifiedDef == null) {
 						thing.minifiedDef = minifiedFurniture;
 						thing.minifiedDef.installBlueprintDef = NewBlueprintDef_Thing (thing);
+
+						DefDatabase<ThingDef>.Add (thing.minifiedDef.installBlueprintDef);
 					}
 				}
 			}
@@ -112,6 +116,9 @@ namespace Miniaturisation
 			thingDef.entityDefToBuild = def;
 
 			def.installBlueprintDef = thingDef;
+
+			ShortHashGiver.GiveShortHash (thingDef);
+
 			return thingDef;
 		}
 	}
