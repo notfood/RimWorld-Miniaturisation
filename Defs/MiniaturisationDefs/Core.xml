@@ -22,18 +22,8 @@
             <li>ElectricCrematorium</li>
             <li>NutrientPasteDispenser</li>
             <li>Hopper</li>
-            <li>HydroponicsBasin</li>
-            <li>Cooler</li>
-            <li>SolarGenerator</li>
-            <li>Sandbags</li>
-            <li>PowerSwitch</li>
-            <li>FueledGenerator</li>
-            <li>TrapDeadfall</li>
-            <li>TrapIEDBomb</li>
-            <li>TrapIEDIncendiary</li>
-            <li>SunLamp</li>
             <li>OrbitalTradeBeacon</li>
-            <li>Vent</li>
+            <li>SunLamp</li>
             <li>CommsConsole</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
