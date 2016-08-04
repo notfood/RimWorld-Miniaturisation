@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRoofSupport</defName>
+        <requiredMod>Roof Support</requiredMod>
+        <targetsDefNames>
+            <li>RoofSupport</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationExtendedStorage</defName>
+        <requiredMod>ExtendedStorage</requiredMod>
+        <targetsDefNames>
+            <li>Storage_Basket</li>
+            <li>Storage_FabricHamper</li>
+            <li>Freezer_Chest</li>
+            <li>HazMat Container</li>
+            <li>Storage_Locker</li>
+            <li>Storage_MedicineCabinet</li>
+            <li>Storage_Skip</li>
+            <li>Storage_TrayRack</li>
+            <li>Storage_WoodenPallet</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

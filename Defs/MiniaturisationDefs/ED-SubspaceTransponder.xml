@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationED-SubspaceTransponder</defName>
+        <requiredMod>ED-SubspaceTransponder</requiredMod>
+        <targetsDefNames>
+            <li>Buildings_SubspaceBurstTransponder</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

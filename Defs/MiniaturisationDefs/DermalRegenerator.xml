@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationDermalRegenerator</defName>
+        <requiredMod>DermalRegenerator</requiredMod>
+        <targetsDefNames>
+            <li>DermalRegenerator</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

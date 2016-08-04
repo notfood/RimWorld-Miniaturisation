@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationMiscObjects</defName>
+        <requiredMod>Misc. Objects</requiredMod>
+        <targetsDefNames>
+            <li>NanoPrinter</li>
+            <li>NanoScanner</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

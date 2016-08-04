@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationEdgeTechnologies</defName>
+        <requiredMod>Edge Technologies</requiredMod>
+        <targetsDefNames>
+            <li>RoboticsWorkbench</li>
+            <li>AlloyForge</li>
+            <li>Bioreactor</li>
+            <li>BioGenerator</li>
+            <li>RobotMiningComplex</li>
+            <li>MiningRobotBay</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

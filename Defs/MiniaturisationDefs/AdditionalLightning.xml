@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationAdditionalLighting</defName>
+        <requiredMod>AdditionalLighting</requiredMod>
+        <targetsDefNames>
+            <li>Lighting_CeilingLamp</li>
+            <li>Lighting_PathLamp</li>
+            <li>Lighting_WallLight</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

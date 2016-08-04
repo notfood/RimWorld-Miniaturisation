@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCoreExtra</defName>
+        <requiredMod>Core</requiredMod>
+        <targetsDefNames>
+            <li>HydroponicsBasin</li>
+            <li>Cooler</li>
+            <li>SolarGenerator</li>
+            <li>Sandbags</li>
+            <li>PowerSwitch</li>
+            <li>FueledGenerator</li>
+            <li>TrapDeadfall</li>
+            <li>TrapIEDBomb</li>
+            <li>TrapIEDIncendiary</li>
+            <li>SunLamp</li>
+            <li>OrbitalTradeBeacon</li>
+            <li>Vent</li>
+            <li>CommsConsole</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
