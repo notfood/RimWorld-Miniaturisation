@@ -32,6 +32,7 @@ Miniaturisation currently supports the following mods:
 - Modular Tables
 - T_ExpandedCrops
 - Roof Support
+- Vegetable Garden
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
 
