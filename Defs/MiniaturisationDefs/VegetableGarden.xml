@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationVegetableGarden</defName>
+        <requiredMod>Vegetable Garden </requiredMod>
+        <targetsDefNames>
+            <li>Planterbox</li>
+            <li>ModularPlanterbox</li>
+            <li>HydroponicsBasin</li>
+            <li>ModularHydroponicsBasin</li>
+            <li>SmallSunLamp</li>
+            <li>MiniSunLamp</li>
+            <li>Oven</li>
+            <li>Canningstove</li>
+            <li>CandyTable</li>
+            <li>Outdoorlight</li>
+            <li>Drinkmachine</li>
+            <li>GrindStone</li>
+            <li>TableLoom</li>
+            <li>TableMedical</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
