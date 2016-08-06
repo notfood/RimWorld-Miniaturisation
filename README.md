@@ -30,6 +30,7 @@ Miniaturisation currently supports the following mods:
 - Misc. Objects
 - Misc. Training
 - Modular Tables
+- T_ExpandedCrops
 - Roof Support
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
