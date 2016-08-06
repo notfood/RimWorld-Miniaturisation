@@ -1,0 +1,10 @@
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationExpandedCrops</defName>
+        <requiredMod>[T] ExpandedCrops</requiredMod>
+        <targetsDefNames>
+            <li>TCookStove</li>
+            <li>TCupboard</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
