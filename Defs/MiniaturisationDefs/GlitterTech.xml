@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationGlitterTech</defName>
+        <requiredMod>Glitter Tech</requiredMod>
+        <targetsDefNames>
+            <li>EMTurret</li>
+            <li>CannisterTurret</li>
+            <li>AutoMortar</li>
+            <li>ClusterMortar</li>
+            <li>EMPAMortar</li>
+            <li>MissileTurret</li>
+            <li>CMissileTurret</li>
+            <li>PharmaTable</li>
+            <li>Matterfab</li>
+            <li>Electrolyzer</li>
+            <li>RobAssem</li>
+            <li>ambTable</li>
+            <li>DynChair</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
