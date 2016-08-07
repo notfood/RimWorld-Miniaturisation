@@ -1,0 +1,14 @@
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationDoorMat</defName>
+        <requiredMod>LT-DoorMat</requiredMod>
+        <targetsDefNames>
+            <li>LT_DoorMatRed</li>
+            <li>LT_DoorMatGreen</li>
+            <li>LT_DoorMatBlue</li>
+            <li>LT_DoorMatBigRed</li>
+            <li>LT_DoorMatBigGreen</li>
+            <li>LT_DoorMatBigBlue</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
