@@ -2,8 +2,8 @@
 
 [![Version](https://img.shields.io/badge/Rimworld-A14-green.svg)]
 (http://rimworldgame.com/)
-[![License](https://img.shields.io/badge/license-Custom-blue.svg)]
-(#)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)]
+(http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 If it has a name, you can shrink it.
 
@@ -43,7 +43,9 @@ You can edit or contribute MiniaturisationDefs directly to the repository or you
 ###Can I install this on existing colonies?
 Yes, should be safe.
 ###License info
-Custom
+Assets are [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Code is derivate from Ludeon Studio
 
 ##Requirements
 [Community Core Library](https://github.com/RimWorldCCLTeam/CommunityCoreLibrary)
