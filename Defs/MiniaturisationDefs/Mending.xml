@@ -4,7 +4,7 @@
         <defName>MiniaturisationMending</defName>
         <requiredMod>Mending</requiredMod>
         <targetsDefNames>
-            <li>MendingTable</li>
+            <li>TableMending</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>
