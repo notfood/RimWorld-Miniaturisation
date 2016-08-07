@@ -46,6 +46,3 @@ Yes, should be safe.
 Assets are [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Code is derivate from Ludeon Studio
-
-##Requirements
-[Community Core Library](https://github.com/RimWorldCCLTeam/CommunityCoreLibrary)
