@@ -25,6 +25,7 @@ Miniaturisation currently supports the following mods:
 - Expanded Prosthetics and Organ Engineering
 - ExtendedMedicine
 - ExtendedStorage
+- LT-DoorMat
 - Medical Training
 - Mending
 - Misc. Objects
