@@ -13,10 +13,12 @@ This mod introduces the MiniaturisationDef, it allows you or anyone to shrink an
 
 ###Mod support
 Miniaturisation currently supports the following mods:
+
 - AdditionalLighting
 - Bulk Meals
 - Colony Manager
 - Craftable Medicines
+- Defence Shield
 - DermalRegenerator
 - Edge Technologies
 - ED-ReinforcedStuff
@@ -25,14 +27,16 @@ Miniaturisation currently supports the following mods:
 - Expanded Prosthetics and Organ Engineering
 - ExtendedMedicine
 - ExtendedStorage
+- Glitter Tech
 - LT-DoorMat
 - Medical Training
 - Mending
 - Misc. Objects
 - Misc. Training
 - Modular Tables
-- T_ExpandedCrops
 - Roof Support
+- Solar Flare Shield
+- T_ExpandedCrops
 - Vegetable Garden
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
