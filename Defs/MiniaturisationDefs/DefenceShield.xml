@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationImprovisedShield</defName>
+        <requiredMod>DefenceShield</requiredMod>
+        <targetsDefNames>
+            <li>ImprovisedShield</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRTSolarFlareShield</defName>
+        <requiredMod>RT Solar Flare Shield</requiredMod>
+        <targetsDefNames>
+            <li>Building_RTMagneticShield</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
