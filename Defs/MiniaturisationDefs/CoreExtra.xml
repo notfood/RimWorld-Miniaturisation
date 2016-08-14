@@ -14,6 +14,7 @@
             <li>TrapIEDBomb</li>
             <li>TrapIEDIncendiary</li>
             <li>Vent</li>
+            <li>TorchLamp</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>
