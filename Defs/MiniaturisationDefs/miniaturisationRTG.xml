@@ -1,0 +1,10 @@
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRTG</defName>
+        <requiredMod>RTGs v1.15</requiredMod>
+        <targetsDefNames>
+            <li>RTG</li>
+            <li>ASRG</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
