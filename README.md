@@ -1,6 +1,6 @@
 # RimWorld-Miniaturisation
 
-[![Version](https://img.shields.io/badge/Rimworld-A14-green.svg)]
+[![Version](https://img.shields.io/badge/Rimworld-A15-green.svg)]
 (http://rimworldgame.com/)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)]
 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -12,7 +12,7 @@ If it has a name, you can shrink it.
 This mod introduces the MiniaturisationDef, it allows you or anyone to shrink any table, or not necessarily a table, as long as you have its defName.
 
 ###Mod support
-Miniaturisation currently supports the following mods:
+Additionally, Miniaturisation currently supports the following mods:
 
 - AdditionalLighting
 - Bulk Meals

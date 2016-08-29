@@ -20,14 +20,11 @@ namespace Miniaturisation
 
 		public override void PostLoad ()
 		{
-			ModContentPack mod = null;
-			foreach (ModContentPack current in LoadedModManager.RunningMods) {
-				if (current.Name == requiredMod) {
-					Log.Message ("Miniaturisation :: Found " + requiredMod + " (" + targetsDefNames.Count + ")");
-					mod = current;
-					break;
-				}
-			}
+			var mod = (
+				from m in LoadedModManager.RunningMods
+				where m.Name == requiredMod
+				select m
+			).FirstOrDefault();
 
 			if (mod == null) {
 #if DEBUG
@@ -36,7 +33,16 @@ namespace Miniaturisation
 				return;
 			}
 
-			foreach( Def thing in mod.AllDefs.Where ( def => targetsDefNames.Contains(def.defName) && def.GetType() == typeof(ThingDef) ) ) {
+			Log.Message ("Miniaturisation :: Found " + requiredMod + " (" + targetsDefNames.Count + ")");
+
+			var things = (
+				from m in LoadedModManager.RunningMods
+				from def in m.AllDefs
+				where targetsDefNames.Contains(def.defName) && def.GetType() == typeof(ThingDef)
+				select def
+			);
+
+			foreach (Def thing in things) {
 #if DEBUG
 				Log.Message ("> " + thing.defName);
 #endif

@@ -7,6 +7,7 @@
             <li>HydroponicsBasin</li>
             <li>Cooler</li>
             <li>SolarGenerator</li>
+            <li>WindTurbine</li>
             <li>Sandbags</li>
             <li>PowerSwitch</li>
             <li>FueledGenerator</li>
@@ -15,6 +16,10 @@
             <li>TrapIEDIncendiary</li>
             <li>Vent</li>
             <li>TorchLamp</li>
+            <li>MoisturePump</li>
+            <li>PassiveCooler</li>
+            <li>DeepDrill</li>
+            <li>GroundPenetratingScanner</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>
