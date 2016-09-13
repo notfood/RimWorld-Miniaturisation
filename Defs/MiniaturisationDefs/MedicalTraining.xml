@@ -2,7 +2,7 @@
 <Defs>
     <Miniaturisation.MiniaturisationDef>
         <defName>MiniaturisationMedicalTraining</defName>
-        <requiredMod>Medical Training v1.05</requiredMod>
+        <requiredMod>Medical Training</requiredMod>
         <targetsDefNames>
             <li>IF_MeditrainTable</li>
         </targetsDefNames>
