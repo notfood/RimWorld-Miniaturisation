@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<Miniaturisation.MiniaturisationDef>
+		<defName>MiniaturisationHotCoffee</defName>
+		<requiredMod>Hot Coffee</requiredMod>
+		<targetsDefNames>
+			<li>ElectricCoffeeMachine</li>
+			<li>ElectricDecaffeinationStation</li>
+		</targetsDefNames>
+	</Miniaturisation.MiniaturisationDef>
+</Defs>
