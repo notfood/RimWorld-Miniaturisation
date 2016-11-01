@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationTurretCollection</defName>
+        <requiredMod>Turret Collection</requiredMod>
+        <targetsDefNames>
+            <li>AMTurretGun</li>
+            <li>TeslaCoilTurret</li>
+            <li>CannonTurretGun</li>
+            <li>HowitzerTurretGun</li>
+            <li>RLGun</li>
+            <li>ILGun</li>
+            <li>Turret_ChainGun</li>
+            <li>Turret_NavalGun28cm</li>
+            <li>Turret_NavalGun40mm</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

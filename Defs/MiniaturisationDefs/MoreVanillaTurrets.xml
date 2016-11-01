@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationMoreVanillaTurrets</defName>
+        <requiredMod>More Vanilla Turrets</requiredMod>
+        <targetsDefNames>
+            <li>VulcanCannon</li>
+            <li>Turret_DevastatorMortarBomb</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
