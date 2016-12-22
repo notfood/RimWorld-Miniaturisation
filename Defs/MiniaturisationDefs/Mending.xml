@@ -5,6 +5,7 @@
         <requiredMod>Mending</requiredMod>
         <targetsDefNames>
             <li>TableMending</li>
+            <li>TableRecycle</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>
