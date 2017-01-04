@@ -18,6 +18,16 @@
             <li>GrindStone</li>
             <li>TableLoom</li>
             <li>TableMedical</li>
+            <li>HandCanningstove</li>
+            <li>FueledCandyTable</li>
+            <li>cider_Barrel</li>
+            <li>rum_Barrel</li>
+            <li>Wine_Barrel</li>
+            <li>strawberrywine_Barrel</li>
+            <li>saki_Barrel</li>
+            <li>vodka_Barrel</li>
+            <li>tequila_Barrel</li>
+            <li>Whiskey_Barrel</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>

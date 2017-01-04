@@ -17,6 +17,8 @@ Additionally, Miniaturisation currently supports the following mods:
 - AdditionalLighting
 - Bulk Meals
 - Colony Manager
+- Combat Realism
+- Core Driller
 - Craftable Medicines
 - Defence Shield
 - DermalRegenerator
@@ -28,6 +30,7 @@ Additionally, Miniaturisation currently supports the following mods:
 - ExtendedMedicine
 - ExtendedStorage
 - Glitter Tech
+- Hardcore SK
 - LT-DoorMat
 - Medical Training
 - Mending

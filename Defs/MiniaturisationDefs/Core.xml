@@ -26,6 +26,7 @@
             <li>OrbitalTradeBeacon</li>
             <li>SunLamp</li>
             <li>CommsConsole</li>
+            <li>Refinery</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>

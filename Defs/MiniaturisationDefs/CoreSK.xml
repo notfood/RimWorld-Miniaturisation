@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCoreExtra</defName>
+        <requiredMod>Core SK</requiredMod>
+        <targetsDefNames>
+            <li>TableGrill</li>
+            <li>TableButcherNeolithic</li>
+            <li>TableButcher</li>
+            <li>FueledStove</li>
+            <li>TableOven</li>
+            <li>CandyTable</li>
+            <li>GrindStone</li>
+            <li>NutrientPasteDispenser</li>
+            <li>Hopper</li>
+            <li>Brewery</li>
+            <li>ElectricBrewery</li>
+            <li>DrugLab</li>
+            <li>TableCoffee</li>
+            <li>TableSawmillHand</li>
+            <li>TableFurnace</li>
+            <li>Kiln</li>
+            <li>GlassworkTable</li>
+            <li>LeatherworkerTable</li>
+            <li>HandTailoringBench</li>
+            <li>ElectricTailoringBench</li>
+            <li>TableLoom</li>
+            <li>BenchRecycle</li>
+            <li>ElectricTableRepair</li>
+            <li>ComponentAssemblyBench</li>
+            <li>FueledSmithy</li>
+            <li>TableStonecutterNeolithic</li>
+            <li>TableStonecutter</li>
+            <li>TableSculpting</li>
+            <li>ConcreteMixer</li>
+            <li>CompostBin</li>
+            <li>FertilizerProductionMachine</li>
+            <li>CraftingSpot</li>
+            <li>WeaponCraftingWorkTable</li>
+            <li>AdvWeaponCraftingWorkTable</li>
+            <li>AmmoBench</li>
+            <li>HeavyArmsBench</li>
+            <li>TablePrimitiveProsthetic</li>
+            <li>TableBasicProsthetic</li>
+            <li>PrimitiveHydroponic</li>
+            <li>HydroponicsBasin</li>
+            <li>NewHydroponicsBasin</li>
+            <li>ClutterAlloyHydroponicsBasinVS</li>
+            <li>Agrarian</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
