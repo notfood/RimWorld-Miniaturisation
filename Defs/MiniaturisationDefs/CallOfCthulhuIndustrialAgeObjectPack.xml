@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCallOfCthulhuIndustrial</defName>
+        <requiredMod>Call of Cthulhu - Industrial Age Objects A16</requiredMod>
+        <targetsDefNames>
+            <li>Jecrell_Chandelier</li>
+            <li>Jecrell_Candelabra</li>
+            <li>Estate_TableTypewriter</li>
+            <li>Estate_Gramophone</li>
+            <li>Estate_Radio</li>
+            <li>Jecrell_GasStreetLampAlpha</li>
+            <li>Jecrell_GasStreetLampBeta</li>
+            <li>Jecrell_GasLampGlower</li>
+            <li>Jecrell_GasLamp</li>
+            <li>WoodStoveFurnace</li>
+            <li>Estate_Refrigerator</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
+ 

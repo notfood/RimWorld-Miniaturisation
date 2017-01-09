@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationSeedsPlease</defName>
+        <requiredMod>SeedsPlease</requiredMod>
+        <targetsDefNames>
+            <li>PlantProcessingTable</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
+ 

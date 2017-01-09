@@ -18,6 +18,7 @@ Additionally, Miniaturisation currently supports the following mods:
 - Bulk Meals
 - Colony Manager
 - Combat Realism
+- Call of Cthulhu - Industrial Age Objects
 - Core Driller
 - Craftable Medicines
 - Defence Shield
@@ -38,6 +39,7 @@ Additionally, Miniaturisation currently supports the following mods:
 - Misc. Training
 - Modular Tables
 - Roof Support
+- Seeds Please!
 - Solar Flare Shield
 - T_ExpandedCrops
 - Vegetable Garden
