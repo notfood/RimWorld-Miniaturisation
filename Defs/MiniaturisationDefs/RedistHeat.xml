@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRedistHeat</defName>
+        <requiredMod>RedistHeat</requiredMod>
+        <targetsDefNames>
+            <li>RedistHeat_ActiveVent</li>
+            <li>RH_SmallCooler</li>
+            <li>RH_MediumHeater</li>
+            <li>RedistHeat_HeaterGlower</li>
+            <li>RedistHeat_IndustrialHeater</li>
+            <li>RedistHeat_IndustrialCooler</li>
+            <li>RedistHeat_ExhaustPort</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
