@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationImperialCore</defName>
+        <requiredMod>Astra Militarum Imperial Guard Core Mod v1.41</requiredMod>
+        <targetsDefNames>
+            <li>ImperialFabricator</li>
+            <li>ImperialWeaponFab</li>
+            <li>ImperialArmorFab</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
