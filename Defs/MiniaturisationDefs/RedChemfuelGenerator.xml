@@ -1,0 +1,9 @@
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRedChemfuelGenerator</defName>
+        <requiredMod>Chemfuel Generator</requiredMod>
+        <targetsDefNames>
+            <li>ChemfuelGenerator</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
