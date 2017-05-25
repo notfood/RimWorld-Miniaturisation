@@ -6,6 +6,7 @@
         <targetsDefNames>
             <li>HydroponicsBasin</li>
             <li>Cooler</li>
+            <li>GeothermalGenerator</li>
             <li>SolarGenerator</li>
             <li>WindTurbine</li>
             <li>Sandbags</li>
@@ -20,6 +21,7 @@
             <li>PassiveCooler</li>
             <li>DeepDrill</li>
             <li>GroundPenetratingScanner</li>
+            <li>LongRangeMineralScanner</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>    
 </Defs>

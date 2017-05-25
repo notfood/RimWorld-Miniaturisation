@@ -46,11 +46,9 @@ namespace Miniaturisation
 #if DEBUG
 				Log.Message ("> " + thing.defName);
 #endif
-				CrossRefLoader.RegisterObjectWantsCrossRef (thing, thingDef_minifiedDef, "MinifiedFurniture");
-			}
+				DirectXmlCrossRefLoader.RegisterObjectWantsCrossRef (thing, thingDef_minifiedDef, "MinifiedFurniture");
 
-			// don't waste hashes
-			//base.PostLoad ();
+			}
 		}
 
 	}
