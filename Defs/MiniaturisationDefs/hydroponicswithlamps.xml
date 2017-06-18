@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>HydroponicsWithLampsMiniaturisation</defName>
+        <requiredMod>WM Hydroponics with lamps</requiredMod>
+        <targetsDefNames>
+            <li>HydroponicsBasin_AllInOne</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
