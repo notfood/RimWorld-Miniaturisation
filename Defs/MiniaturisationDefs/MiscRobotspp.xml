@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationMiscRobotspp</defName>
+        <requiredMod>Misc. Robots++</requiredMod>
+        <targetsDefNames>
+            <li>Table_RPP_RoboticsBench</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

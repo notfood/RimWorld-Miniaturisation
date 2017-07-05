@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationRimsenalSecurity</defName>
+        <requiredMod>Rimsenal - Security pack</requiredMod>
+        <targetsDefNames>
+            <li>WaveEmitter</li>
+            <li>NestHMG</li>
+            <li>NestAGS</li>
+            <li>MoltenCannon</li>
+            <li>BarrageCannon</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

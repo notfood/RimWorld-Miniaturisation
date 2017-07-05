@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationPowerLogicp</defName>
+        <requiredMod>Power Logic</requiredMod>
+        <targetsDefNames>
+            <li>SupesPowerBridgeInductor</li>
+            <li>SupesPowerBridgeBeamer</li>
+            <li>SupesStayOnGate</li>
+            <li>SupesCutoffSwitch</li>
+            <li>SupesRemoteProxSensor</li>
+            <li>SupesPressureSensor</li>
+            <li>SupesProxSensor</li>
+            <li>SupesRemoteSwitch</li>
+            <li>SupesSignalRepeater</li>
+            <li>SupesSignalTransmitter</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

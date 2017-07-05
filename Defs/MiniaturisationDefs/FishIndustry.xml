@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationFishIndustry</defName>
+        <requiredMod>FishIndustry</requiredMod>
+        <targetsDefNames>
+            <li>AquacultureHopper</li>
+            <li>AquacultureBasin</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>

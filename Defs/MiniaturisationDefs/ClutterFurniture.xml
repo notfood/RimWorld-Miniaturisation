@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationClutterFurniture</defName>
+        <requiredMod>Clutter Furniture Module</requiredMod>
+        <targetsDefNames>
+            <li>FurnitureAssembler</li>
+            <li>ClutterStylist</li>
+            <li>ClutterColorer</li>
+            <li>SteelRefiner</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
