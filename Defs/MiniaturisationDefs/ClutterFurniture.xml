@@ -8,6 +8,7 @@
             <li>ClutterStylist</li>
             <li>ClutterColorer</li>
             <li>SteelRefiner</li>
+            <li>ClutterFloorLampA</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>
 </Defs>
