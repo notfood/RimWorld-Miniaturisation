@@ -1,11 +1,11 @@
-+<?xml version="1.0" encoding="utf-8" ?>
- +<Defs>
- +    <Miniaturisation.MiniaturisationDef>
- +        <defName>MiniaturisationDogBowl</defName>
- +        <requiredMod>Dog Bowl</requiredMod>
- +        <targetsDefNames>
- +            <li>Dogbowl</li>
- +            <li>BigDogbowl</li>
- +        </targetsDefNames>
- +    </Miniaturisation.MiniaturisationDef>
- +</Defs>
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationDogBowl</defName>
+        <requiredMod>Dog Bowl</requiredMod>
+        <targetsDefNames>
+            <li>Dogbowl</li>
+            <li>BigDogbowl</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
