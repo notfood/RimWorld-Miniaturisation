@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationColonyLeadership</defName>
+        <requiredMod>Colony Leadership</requiredMod>
+        <targetsDefNames>
+            <li>TeachingSpot</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
