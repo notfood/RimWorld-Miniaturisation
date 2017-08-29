@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCrystalloid</defName>
+        <requiredMod>Crystalloid (Xenohuman Race)</requiredMod>
+        <targetsDefNames>
+            <li>PsionicGenerator</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>
+</Defs>
