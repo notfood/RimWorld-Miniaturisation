@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <Miniaturisation.MiniaturisationDef>
-        <defName>MiniaturisationDogBowl</defName>
-        <requiredMod>Dog Bowl</requiredMod>
+        <defName>MiniaturisationColonyLeadership</defName>
+        <requiredMod>Colony Leadership</requiredMod>
         <targetsDefNames>
-            <li>Dogbowl</li>
-            <li>BigDogbowl</li>
+            <li>TeachingSpot</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>
 </Defs>

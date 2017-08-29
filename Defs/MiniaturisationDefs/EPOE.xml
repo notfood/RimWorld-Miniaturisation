@@ -2,14 +2,12 @@
 <Defs>
     <Miniaturisation.MiniaturisationDef>
         <defName>MiniaturisationEPOE</defName>
-        <requiredMod>Expanded Prosthetics and Organ Engineering</requiredMod>
+        <requiredMod>Expanded Prosthetics and Organ Engineering 2.0</requiredMod>
         <targetsDefNames>
+            <li>TableOrgans</li>
+            <li>TableSimpleProsthetic</li>
             <li>TableBasicProsthetic</li>
             <li>TableBionics</li>
-            <li>TableSimpleProsthetic</li>
-            <li>TableSurrogates</li>
-            <li>TableSynthetics</li>
-            <li>UpgradingStation</li>
         </targetsDefNames>
     </Miniaturisation.MiniaturisationDef>
 </Defs>
