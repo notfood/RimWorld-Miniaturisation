@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationDieselGenerator</defName>
+        <requiredMod>Diesel Generator</requiredMod>
+        <targetsDefNames>
+            <li>ChemfuelGenerator</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
