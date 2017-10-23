@@ -6,7 +6,7 @@
 If it has a name, you can shrink it.
 
 ## Features
-###Simple mod friendly miniaturisation
+### Simple mod friendly miniaturisation
 This mod introduces the MiniaturisationDef, it allows you or anyone to shrink any table, or not necessarily a table, as long as you have its defName.
 
 ### Mod support
@@ -41,6 +41,7 @@ Additionally, Miniaturisation currently supports the following mods:
 - Solar Flare Shield
 - T_ExpandedCrops
 - Vegetable Garden
+- Wall Light
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
 
