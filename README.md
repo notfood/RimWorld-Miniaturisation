@@ -41,6 +41,7 @@ Additionally, Miniaturisation currently supports the following mods:
 - Solar Flare Shield
 - T_ExpandedCrops
 - Vegetable Garden
+- Wall Light
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
 
