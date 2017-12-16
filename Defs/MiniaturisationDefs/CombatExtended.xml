@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <Miniaturisation.MiniaturisationDef>
+        <defName>MiniaturisationCombatExtended</defName>
+        <requiredMod>Combat Extended</requiredMod>
+        <targetsDefNames>
+            <li>AmmoBench</li>
+        </targetsDefNames>
+    </Miniaturisation.MiniaturisationDef>    
+</Defs>
